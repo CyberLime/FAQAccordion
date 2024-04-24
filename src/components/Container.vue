@@ -1,6 +1,5 @@
 <script setup>
   import Accordion from './Accordion.vue';
-
 </script>
 
 <template>
@@ -20,9 +19,9 @@
     width: 90vw;
     min-height: 460px;
     height: fit-content;
-    background-color: #fff;
     border-radius: 15px;
     padding: 40px 40px;
+    background-color: #fff;
   }
 
   .faqs {
